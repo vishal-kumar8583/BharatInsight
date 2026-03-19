@@ -59,24 +59,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
-## Deployment on Vercel
 
-1. Push your code to GitHub
-2. Go to [vercel.com/new](https://vercel.com/new) and import your repository
-3. **Important:** If your repo root contains the project directly (not in a subfolder), leave "Root Directory" blank. If the project is inside a folder (e.g. `bharat-insight/`), set Root Directory to that folder name.
-4. Under "Environment Variables", add:
-   - `GEMINI_API_KEY` → your Gemini API key
-5. Click Deploy
-
-> The `vercel.json`, `.nvmrc`, and `next.config.js` are already configured for a smooth Vercel build.
-
-## Environment Variables
-
-| Variable | Required | Description |
-|---|---|---|
-| `GEMINI_API_KEY` | Yes | Google Gemini API key for AI features |
-
-Get a free key at [aistudio.google.com](https://aistudio.google.com/app/apikey).
 
 ## Project Structure
 
