@@ -57,7 +57,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open :- https://bharat-insight-iota.vercel.app/
 
 
 
